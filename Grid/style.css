@@ -4,7 +4,7 @@
     grid-template-rows:repeat(5,140px) 40px;
 }
 .content{
-    background-color: cornflowerblue;
+    background-color: rgb(162, 152, 165);
     border: 1px solid black;
 }
 .content2{
@@ -66,6 +66,7 @@
 }
 .content3,
 .content5,
-.content8 img{
+.content8 {
+    background-color: brown;
     opacity: 0.5;
 }
